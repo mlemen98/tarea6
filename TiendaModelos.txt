@@ -1,0 +1,9 @@
+	Tienda Modelos
+Dia1
+Modelo2
+Monto500
+
+Dia2
+Modelo1
+Monto200
+
